@@ -1,0 +1,11 @@
+.description_list {
+  overflow: hidden;
+  height: 29px;
+}
+.card_list_img {
+  height: 200px;
+  overflow: hidden;
+}
+.card_img {
+  width: 100%;
+}
